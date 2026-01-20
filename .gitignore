@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Redundant root submission artifacts
+Rafi_Uz_Zaman_Siddiqui_*
+*.zip
+Rafi_Assessment*
+
+# Model checkpoints & serialized models (if re-saved locally)
+*.joblib
+*.pkl
+*.h5
+
+# Datasets and cache
+data/
+*.csv
+.cache/
+kagglehub/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
